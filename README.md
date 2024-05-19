@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilcngl" alt="anilcngl" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Phyton**
+- 🌱 I’m currently learning **Phyton**
 
 - 📫 How to reach me **anilcangol@gmail.com**
 
